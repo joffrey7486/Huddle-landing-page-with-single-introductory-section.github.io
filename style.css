@@ -156,7 +156,7 @@ button:hover{
 
 @media (max-width: 375px) {
     .page{
-        background-image: url(https://raw.githubusercontent.com/joffrey7486/Huddle-landing-page-with-single-introductory-section.github.io/12a7f14785814b3e27c8147fc5a824c7ee1a7c41/images/bg-mobile.svg);
+        background-image: url(https://raw.githubusercontent.com/joffrey7486/Huddle-landing-page-with-single-introductory-section.github.io/7ff05db32eff7a7d9334635d2d6af1eade353875/images/bg-mobile.svg);
         grid-template-areas: 
         "header"
         "section-img"
@@ -164,7 +164,7 @@ button:hover{
         "footer-social";
     }
     .logo{
-        background-image: url(/images/logo.svg);
+        background-image: url(https://raw.githubusercontent.com/joffrey7486/Huddle-landing-page-with-single-introductory-section.github.io/7ff05db32eff7a7d9334635d2d6af1eade353875/images/logo.svg);
         background-size: 115px;
         background-repeat: no-repeat;
         margin: 40px 0 0 50px;
