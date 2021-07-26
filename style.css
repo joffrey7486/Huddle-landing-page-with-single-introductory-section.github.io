@@ -154,7 +154,7 @@ button:hover{
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 620px) {
     .page{
         background-image: url(https://raw.githubusercontent.com/joffrey7486/Huddle-landing-page-with-single-introductory-section.github.io/7ff05db32eff7a7d9334635d2d6af1eade353875/images/bg-mobile.svg);
         grid-template-areas: 
